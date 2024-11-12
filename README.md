@@ -33,7 +33,7 @@ Next you need nillion address, which you can copy to Keplr (format: nillion1tda.
 
 You can use the script from Rambeboy to easily install, update and manage RPC. Just use 
 ```
-bash -i <(curl -sSL https://raw.githubusercontent.com/Rambeboy/NillionNodeGuide/refs/heads/main/setup.sh)
+bash -i <(curl -sSL https://raw.githubusercontent.com/Rambeboy/Nillion-Node/refs/heads/main/setup.sh)
 ```
 
 and follow the instructions, or use the guide below.
