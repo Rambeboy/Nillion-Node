@@ -19,7 +19,7 @@ The Keplr EVM wallet is required to run the node. In addition to the node, the p
 - Server on Linux
 - Keplr EVM wallet
 
-Before installing noda, install yourself a [Keplr](https://www.keplr.app/) wallet. 
+Before installing node, install yourself a [Keplr](https://www.keplr.app/) wallet. 
 After that, go to https://verifier.nillion.com and connect Keplr.
 Now you need to add NillionTestnet to Kepl. At https://chains.keplr.app search for Nillon and add it to your Keplr. Open the Keplr extension, in the menub on the left click on Manage Chain Visibility and select Nillon.
 Next you need nillion address, which you can copy to Keplr (format: nillion1tda..trd). At https://faucet.testnet.nillion.com you need to get test tokens for the copied address. 
